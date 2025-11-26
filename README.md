@@ -94,6 +94,8 @@ xtitle("FM Signal");
 xgrid();
 
 
+
+
 Output Waveform
 <img width="1920" height="1080" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/743f59f6-020f-4693-b6d8-8c9b9a2371f9" />
 
